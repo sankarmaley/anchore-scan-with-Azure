@@ -1,7 +1,7 @@
 # Anchore DevOps Task Dev Pipeline
 ---
 trigger:
-- master
+- main
 
 pool:
   vmImage: 'ubuntu-latest'
